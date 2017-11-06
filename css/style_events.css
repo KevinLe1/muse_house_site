@@ -1,0 +1,40 @@
+html, body {
+	background:#5B9FFE center center no-repeat;
+	height:100%;
+	background-size: cover;
+	font-family:"Roboto", sans-serif;
+}
+
+h1{
+	color:white;
+	font-size:500%;
+}
+
+h2{
+	color:white;
+	font-size:250%;
+}
+
+#event{
+	padding-left:15%;
+	padding-right:15%;
+}
+
+#navigation a{
+	color:#f9f9f9;
+	padding-left:5px;
+	font-size:125%;
+}
+
+#section-divider{
+	margin:auto;
+	width:70%;
+	background:white;
+	/*background: #e6b800;*/
+	padding:1px;
+	border-radius:1px;
+	opacity:0.70;
+
+}
+
+
