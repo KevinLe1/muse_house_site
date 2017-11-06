@@ -4,6 +4,13 @@ html, body {
 	background-size: cover;
 }
 
+#application{
+	padding-left:10%;
+	font-family:"Roboto", sans-serif;
+	padding-right:10%;
+	color:white;
+}
+
 #home{
 	padding-left:10%;
 	font-family:"Roboto", sans-serif;
